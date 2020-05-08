@@ -1,6 +1,6 @@
 import requests
+from bs4 import BeautifulSoup
 import lxml
 import time
-from bs4 import BeautifulSoup
 
 
